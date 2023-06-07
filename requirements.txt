@@ -1,2 +1,2 @@
 pandas
-ploty_express
+plotly_express
